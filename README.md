@@ -3,6 +3,8 @@ This is a simple articles ranker. The articles are fetched from the [dataset](ht
   - better organisation to component structure
   - better styling
   - including tests
+  
+[Live demo](https://my-newsapp.now.sh)  
 
 ## Getting Started
 
